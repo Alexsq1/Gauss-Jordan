@@ -1,2 +1,3 @@
 # Gauss-Jordan
-Elimination of matrices
+Gaussian elimination of matrices in Java.
+Done independently for learning linear algebra.
